@@ -100,3 +100,29 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image {
+    width: "15%";
+}
+
+#upload-image {
+    width: "61%";
+}
+
+#align {
+    width: "24%";
+    align: "center";
+}
+
+#colour-title {
+    width: "80%";
+}
+
+#comment-align {
+    width: "20%";
+    align: "left";
+}
+
+#comments {
+    align: "center";
+}
